@@ -2,5 +2,5 @@
 
 /* Create your new element here and assign it to newHeader */
 const newHeader =victory;
-let element = document.createElement('div')
+let element = document.createElement('victory')
 
