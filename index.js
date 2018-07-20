@@ -2,6 +2,6 @@
 
 /* Create your new element here and assign it to newHeader */
 const newHeader =victory;
-let element = document.createElement('victory')
+let element = document.createElement('victory');
 
 <h1 id =victory>"Donna is the champion"</h1>
